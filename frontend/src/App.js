@@ -1,11 +1,11 @@
 import React from 'react'
+import UpperNavbar from './components/UpperNavbar'
+
 
 function App() {
   return (
     <div>
-
-<h1>Hello we are going to make the the clone of youtube .</h1>
-
+      <UpperNavbar/>
     </div>
   )
 }

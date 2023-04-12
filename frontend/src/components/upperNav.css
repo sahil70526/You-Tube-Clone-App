@@ -1,0 +1,6 @@
+.inputBar{
+    width:100%;
+    padding: 10px;
+    border:1px solid rgb(241, 230, 230);
+    border-radius: 18px !important;
+}
