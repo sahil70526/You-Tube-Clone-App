@@ -1,5 +1,5 @@
 import React from 'react'
-import { Icon, Input } from 'semantic-ui-react'
+import { Icon } from 'semantic-ui-react'
 import "./upperNav.css"
 function UpperNavbar() {
     return (
@@ -11,7 +11,7 @@ function UpperNavbar() {
                     <span style={{ marginLeft: "20px" }}>
                         <Icon name='youtube' color='red' size='big' />
                     </span>
-                    <span style={{ fontSize: 20, fontWeight: "bold" }}>YouTube Vanced</span>
+                    <span style={{ fontSize: 20, fontWeight: "bold" }}>YouTube</span>
                 </div>
             </div>
 
